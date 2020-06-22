@@ -1,8 +1,7 @@
 {
   "display_name": "Javascript, Mocha+chai+sinon",
-  "image_name": "cyberdojofoundation/javascript_node_mocha_chai_sinon",
-  "visible_filenames":
-  [
+  "image_name": "cyberdojofoundation/javascript_node_mocha_chai_sinon:b7900ab",
+  "visible_filenames": [
     "hikerTest.js",
     "crib_chai.txt",
     "crib_sinon.txt",
@@ -11,7 +10,9 @@
     "cyber-dojo.sh",
     ".jshintrc"
   ],
-  "filename_extension": [ ".js" ],
+  "filename_extension": [
+    ".js"
+  ],
   "max_seconds": 10,
   "tab_size": 2
 }
