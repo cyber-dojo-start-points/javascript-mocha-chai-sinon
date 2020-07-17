@@ -1,6 +1,6 @@
 {
   "display_name": "Javascript, Mocha+chai+sinon",
-  "image_name": "cyberdojofoundation/javascript_node_mocha_chai_sinon:6ea604a",
+  "image_name": "cyberdojofoundation/javascript_node_mocha_chai_sinon:eb6db6e",
   "visible_filenames": [
     "hikerTest.js",
     "crib_chai.txt",
