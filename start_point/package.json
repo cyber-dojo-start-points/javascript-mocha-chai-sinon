@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "lint": "eslint --config ${CYBER_DOJO_SANDBOX}/.eslintrc.json /**/*.js",
+    "test": "nyc mocha --require config.js --no-colors *Test.js"
+  },
+  "nyc": {
+    "reporter": [ "text" ]
+  }
+}
