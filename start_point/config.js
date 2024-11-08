@@ -2,7 +2,7 @@
 // you can probably leave this file alone
 
 const chai = require('chai');
-const sinonChai = require('sinon-chai');
+const sinonChai = require('sinon-chai').default;
 
 global.sinon = require('sinon');
 

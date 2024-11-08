@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 21.5, Mocha 10.3/chai 5.1/sinon 17.0",
-  "image_name": "cyberdojofoundation/javascript_node_mocha_chai_sinon:d998e6d",
+  "display_name": "JavaScript 23.1, Mocha 10.8.2/chai 5.11/sinon 19.0.2/sinon-chai 4.0.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_mocha_chai_sinon:0ad0d5e",
   "visible_filenames": [
     "hikerTest.js",
     "crib_chai.txt",
@@ -8,7 +8,7 @@
     "hiker.js",
     "config.js",
     "cyber-dojo.sh",
-    ".eslintrc.json",
+    "eslint.config.js",
     "package.json"
   ],
   "filename_extension": [
