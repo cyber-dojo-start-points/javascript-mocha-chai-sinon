@@ -1,13 +1,14 @@
 
-module.exports =
+export default [
     {
-        languageOptions: {
-            ecmaVersion: 8,
-            sourceType: "module"
-        }
-    },
-    {
-        rules: {
-            semi: ["error"]
+        "languageOptions" : {
+            "parserOptions": {
+                "ecmaVersion": 13,
+                "sourceType": "module"
+            }
+        },
+        "rules": {
+            "semi": "error"
         }
     }
+];

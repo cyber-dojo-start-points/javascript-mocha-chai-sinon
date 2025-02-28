@@ -1,6 +1,6 @@
 'use strict';
 
-const hiker = require('./hiker.js');
+import hiker from './hiker.js';
 
 describe('Should Style: Answer', () => {
   it('to life the universe and everything', () => {

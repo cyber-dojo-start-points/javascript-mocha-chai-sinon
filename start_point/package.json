@@ -6,5 +6,5 @@
   "nyc": {
     "reporter": [ "text" ]
   },
-  "type": "commonjs"
+  "type": "module"
 }

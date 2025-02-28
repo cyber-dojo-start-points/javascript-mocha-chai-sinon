@@ -1,10 +1,11 @@
 // global config file so each test does not need to be configured
 // you can probably leave this file alone
 
-const chai = require('chai');
-const sinonChai = require('sinon-chai').default;
+import sinonChai from 'sinon-chai';
+import * as chai from 'chai';
 
-global.sinon = require('sinon');
+import sinon from 'sinon';
+global.sinon = sinon;
 
 // although you will probably only choose one style
 // assert, expect, and should are all here
