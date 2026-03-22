@@ -1,6 +1,6 @@
 {
-  "display_name": "JavaScript 23.7, Mocha 11.1/chai 5.12/sinon 19.0.2/sinon-chai 4.0",
-  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_mocha_chai_sinon:db3e231",
+  "display_name": "JavaScript 25.8, Mocha 11.7/chai 6.2/sinon 21.0/sinon-chai 4.0",
+  "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_mocha_chai_sinon:a1b9cd6",
   "visible_filenames": [
     "hikerTest.js",
     "crib_chai.txt",
@@ -11,6 +11,7 @@
     "eslint.config.js",
     "package.json"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".js"
   ],
