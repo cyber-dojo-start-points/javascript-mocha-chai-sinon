@@ -12,5 +12,7 @@ trap cyber_dojo_exit EXIT SIGTERM
 # --------------------------------------------------------------
 ln -s /etc/mocha/node_modules ${CYBER_DOJO_SANDBOX}/node_modules
 
-npm run lint
-npm run test
+# Calling [npm run ...] is sloooow so we don't to that.
+
+/etc/mocha/node_modules/.bin/eslint --config ${CYBER_DOJO_SANDBOX}/eslint.config.js /**/*.js
+/etc/mocha/node_modules/.bin/nyc /etc/mocha/node_modules/.bin/mocha --require config.js --no-colors *Test.js
