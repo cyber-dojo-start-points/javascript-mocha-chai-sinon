@@ -1,5 +1,13 @@
 {
   "display_name": "JavaScript 25.8, Mocha 11.7/chai 6.2/sinon 21.0/sinon-chai 4.0",
+  "language": [
+    "JavaScript",
+    "25.8"
+  ],
+  "test_framework": [
+    "Mocha, Chai, Sinon",
+    "11.7, 6.2, 21.0"
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/javascript_node_mocha_chai_sinon:8df8a3f",
   "visible_filenames": [
     "hikerTest.js",
