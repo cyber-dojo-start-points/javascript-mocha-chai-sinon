@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^  Mock Style: Answer$": 1,
+    "^  0 passing ": 1,
+    "^  1 failing$": 1,
+    "^ +ExpectationError: Expected answer\\('\\[\\.\\.\\.\\]'\\) once \\(never called\\)$": 1,
+    "AssertionError": 0
+  }
+}

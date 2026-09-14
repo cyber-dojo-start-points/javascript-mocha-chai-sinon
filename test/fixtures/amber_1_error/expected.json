@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^  0 passing ": 1,
+    "^  1 failing$": 1,
+    "^ +TypeError: Cannot read properties of null \\(reading 'length'\\)$": 1,
+    "AssertionError": 0
+  }
+}

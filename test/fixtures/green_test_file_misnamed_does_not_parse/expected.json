@@ -1,0 +1,13 @@
+{
+  "max_output_lines": 55,
+  "match_counts": {
+    "^/sandbox/hikerTests\\.js$": 1,
+    "^ +[0-9]+:[0-9]+ +error +Parsing error: Unexpected token ;$": 1,
+    " 1 problem \\(1 error, 0 warnings\\)$": 1,
+    " to life the universe and everything$": 1,
+    "^  1 passing ": 1,
+    "SyntaxError": 0,
+    "has three digits": 0,
+    "failing": 0
+  }
+}

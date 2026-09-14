@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 45,
+  "match_counts": {
+    " to life the universe and everything$": 1,
+    " marks the name of the book$": 1,
+    "^  2 passing ": 1,
+    "failing": 0,
+    "Parsing error": 0
+  }
+}

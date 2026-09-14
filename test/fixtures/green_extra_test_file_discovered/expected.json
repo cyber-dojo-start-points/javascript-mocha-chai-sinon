@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 50,
+  "match_counts": {
+    "^  Answer size$": 1,
+    "^  Should Style: Answer$": 1,
+    " has two digits$": 1,
+    " to life the universe and everything$": 1,
+    "^  2 passing ": 1,
+    "^ answerSizeTest\\.js +\\| +100 \\| +100 \\| +100 \\| +100 \\|": 1,
+    "failing": 0
+  }
+}

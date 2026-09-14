@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^Error: No test files found: \"\\*Test\\.js\"$": 1,
+    "passing": 0,
+    "failing": 0,
+    "AssertionError": 0
+  }
+}

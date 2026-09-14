@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 40,
+  "match_counts": {
+    " to life the universe and everything$": 1,
+    "^  1 passing ": 1,
+    "^ hikerTest\\.js +\\| +100 \\| +100 \\| +100 \\| +100 \\|": 1,
+    "failing": 0,
+    "Parsing error": 0,
+    "AssertionError": 0
+  }
+}

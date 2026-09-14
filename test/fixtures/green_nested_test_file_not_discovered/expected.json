@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 40,
+  "match_counts": {
+    " to life the universe and everything$": 1,
+    "^  1 passing ": 1,
+    "Nested answer size": 0,
+    "has three digits": 0,
+    "answerSizeTest": 0,
+    "failing": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "max_output_lines": 50,
+  "match_counts": {
+    "^  Should Style: FizzBuzz$": 1,
+    " says the number when it divides by neither three nor five$": 1,
+    " says FizzBuzz when the number divides by three and five$": 1,
+    "^  4 passing ": 1,
+    "^ fizzBuzzTest\\.js +\\| +100 \\| +100 \\| +100 \\| +100 \\|": 1,
+    "hiker": 0,
+    "failing": 0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 45,
+  "match_counts": {
+    " to life the universe and everything$": 1,
+    " is written with two digits$": 1,
+    " does not match the question$": 1,
+    "^  3 passing ": 1,
+    "failing": 0,
+    "AssertionError": 0
+  }
+}

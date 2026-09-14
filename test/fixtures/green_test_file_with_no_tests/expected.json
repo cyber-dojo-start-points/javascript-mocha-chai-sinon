@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 30,
+  "match_counts": {
+    "^  0 passing ": 1,
+    "failing": 0,
+    "Parsing error": 0,
+    "AssertionError": 0
+  }
+}

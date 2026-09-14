@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^  2 passing ": 1,
+    "^  1 failing$": 1,
+    "^ +AssertionError: expected 54 to equal 42$": 1,
+    " is written with two digits$": 1,
+    " is a whole number$": 1
+  }
+}

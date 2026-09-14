@@ -1,0 +1,9 @@
+{
+  "match_counts": {
+    "^  3 passing ": 1,
+    "^  1 failing$": 1,
+    "^ +AssertionError: expected 2 to equal 3$": 1,
+    " has three digits$": 1,
+    " is more than forty$": 1
+  }
+}

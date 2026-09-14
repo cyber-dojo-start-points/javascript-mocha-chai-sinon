@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 70,
+  "match_counts": {
+    "^  0 passing ": 1,
+    "^  1 failing$": 1,
+    "^ +TypeError: text\\.toUppercase is not a function$": 1,
+    "AssertionError": 0
+  }
+}
